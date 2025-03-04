@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "9ac7f28385284cf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4b99efb79454d14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7ae3449e1e9126c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d5842db42aea369",
+    "type": "split",
+    "children": [
+      {
+        "id": "cad2e5d08ad3326d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f611bda2f1f949b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f6a8d2e2a807fd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6884c9f33e63b9c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a65537ed166fe00",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42a911e8594b6e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeb922679da45e63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fc061da396645e01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ed59ab9f165d8e8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8c24bcfc7ff7b1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f0cdd8731535b42a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b7ae3449e1e9126c",
+  "lastOpenFiles": [
+    "TO-DO.md",
+    "Tasks.md",
+    "Home.md",
+    "Day Planner.md",
+    "Excalidraw/Drawing 2025-02-12 09.48.09.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 09.39.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 06.22.20.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 06.07.28.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 05.54.15.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 05.15.59.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 05.12.13.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 04.57.33.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 04.47.37.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 04.29.18.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 04.23.05.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 04.20.07.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 03.42.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 03.16.21.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 02.41.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 02.03.06.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 01.38.34.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 01.34.19.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 01.26.28.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 01.18.53.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-10 17.18.02.excalidraw.md",
+    "Excalidraw",
+    "90 archive",
+    "20 resource/Physics/Electrical Circuits/Voltage.md",
+    "20 resource/Physics/Electrical Circuits",
+    "20 resource/Physics",
+    "20 resource/Operating Systems",
+    "20 resource/Numerical Methods",
+    "20 resource/21 dump",
+    "20 resource",
+    "10 dump/Pasted image 20250227122343.png",
+    "10 dump/11 images/Pasted image 20250212062213.png",
+    "10 dump/11 images/what-is-current-divider-1.jpg",
+    "10 dump/11 images/Pasted Image 20250212054142_910.png",
+    "10 dump/11 images/Pasted image 20250205013030.png",
+    "10 dump/11 images/Pasted image 20250212040409.png",
+    "10 dump/11 images/Pasted image 20250212020252.png",
+    "10 dump/11 images/Pasted image 20250212042259.png",
+    "10 dump/11 images/Pasted image 20250212013820.png",
+    "10 dump/11 images/Pasted image 20250210123916.png",
+    "10 dump/11 images",
+    "10 dump/12 pdfs/EE101-1/teacher-resources/ImpedanceAdmittance.pdf"
+  ]
+}
